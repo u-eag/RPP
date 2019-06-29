@@ -1,0 +1,222 @@
+# depslib dependency file v1.0
+1561543092 source:c:\users\admiral\documents\gualco_1a_recuperatorio\abm_biblioteca.c
+	"ABM_Biblioteca.h"
+
+1560993796 c:\users\admiral\documents\gualco_1a_recuperatorio\abm_biblioteca.h
+
+1561552784 source:c:\users\admiral\documents\gualco_1a_recuperatorio\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561552681 c:\users\admiral\documents\gualco_1a_recuperatorio\autores.h
+
+1561545644 c:\users\admiral\documents\gualco_1a_recuperatorio\fecha.h
+
+1561532285 c:\users\admiral\documents\gualco_1a_recuperatorio\libros.h
+
+1561532285 c:\users\admiral\documents\gualco_1a_recuperatorio\prestamos.h
+	"Fecha.h"
+	"Socios.h"
+	"Libros.h"
+
+1561532285 c:\users\admiral\documents\gualco_1a_recuperatorio\socios.h
+	"Fecha.h"
+
+1561552033 c:\users\admiral\documents\gualco_1a_recuperatorio\validaciones.h
+
+1561543230 source:c:\users\admiral\documents\gualco_1a_recuperatorio\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561544452 source:c:\users\admiral\documents\gualco_1a_recuperatorio\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561545597 source:c:\users\admiral\documents\gualco_1a_recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561551952 source:c:\users\admiral\documents\gualco_1a_recuperatorio\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561550918 source:c:\users\admiral\documents\gualco_1a_recuperatorio\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561552633 source:c:\users\admiral\documents\gualco_1a_recuperatorio\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561572090 source:c:\users\admiral\documents\rpp\autores.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
+1561552681 c:\users\admiral\documents\rpp\autores.h
+
+1561545644 c:\users\admiral\documents\rpp\fecha.h
+
+1561532285 c:\users\admiral\documents\rpp\libros.h
+
+1561532285 c:\users\admiral\documents\rpp\prestamos.h
+	"Fecha.h"
+	"Socios.h"
+	"Libros.h"
+
+1561532285 c:\users\admiral\documents\rpp\socios.h
+	"Fecha.h"
+
+1561566924 c:\users\admiral\documents\rpp\validaciones.h
+
+1561572100 source:c:\users\admiral\documents\rpp\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
+1561572106 source:c:\users\admiral\documents\rpp\libros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
+1561577029 source:c:\users\admiral\documents\rpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
+1561572118 source:c:\users\admiral\documents\rpp\prestamos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
+1561572136 source:c:\users\admiral\documents\rpp\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
+1561572126 source:c:\users\admiral\documents\rpp\socios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
+1561812736 c:\users\admiral\documents\rpp\informarlistar.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+
+1561576942 source:c:\users\admiral\documents\rpp\informarlistar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Autores.h"
+	"Fecha.h"
+	"Libros.h"
+	"Prestamos.h"
+	"Socios.h"
+	"validaciones.h"
+	"InformarListar.h"
+
